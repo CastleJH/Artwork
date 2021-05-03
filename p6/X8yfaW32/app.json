@@ -17,7 +17,7 @@
 			"generator": "Object3D.toJSON"
 		},
 		"object": {
-			"uuid": "C74F0C7D-C430-4EAB-A022-27E6D2D4D624",
+			"uuid": "7703D1D0-52FB-45B2-8964-BD462AAD3461",
 			"type": "PerspectiveCamera",
 			"name": "Camera",
 			"layers": 1,
@@ -1044,7 +1044,7 @@
 							"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
 							"color": 16711680,
 							"intensity": 0.3,
-							"distance": 10,
+							"distance": 16,
 							"decay": 1,
 							"shadow": {
 								"camera": {
@@ -1054,7 +1054,7 @@
 									"fov": 90,
 									"zoom": 1,
 									"near": 0.5,
-									"far": 10,
+									"far": 16,
 									"focus": 10,
 									"aspect": 1,
 									"filmGauge": 35,
@@ -1072,7 +1072,7 @@
 							"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
 							"color": 65280,
 							"intensity": 0.3,
-							"distance": 10,
+							"distance": 16,
 							"decay": 1,
 							"shadow": {
 								"camera": {
@@ -1082,7 +1082,7 @@
 									"fov": 90,
 									"zoom": 1,
 									"near": 0.5,
-									"far": 10,
+									"far": 16,
 									"focus": 10,
 									"aspect": 1,
 									"filmGauge": 35,
@@ -1100,7 +1100,7 @@
 							"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
 							"color": 255,
 							"intensity": 0.3,
-							"distance": 10,
+							"distance": 16,
 							"decay": 1,
 							"shadow": {
 								"camera": {
@@ -1110,7 +1110,7 @@
 									"fov": 90,
 									"zoom": 1,
 									"near": 0.5,
-									"far": 10,
+									"far": 16,
 									"focus": 10,
 									"aspect": 1,
 									"filmGauge": 35,
