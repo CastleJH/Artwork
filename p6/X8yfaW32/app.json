@@ -17,7 +17,7 @@
 			"generator": "Object3D.toJSON"
 		},
 		"object": {
-			"uuid": "36C7BEE8-9DEB-417D-B804-32C9D44F365E",
+			"uuid": "C74F0C7D-C430-4EAB-A022-27E6D2D4D624",
 			"type": "PerspectiveCamera",
 			"name": "Camera",
 			"layers": 1,
