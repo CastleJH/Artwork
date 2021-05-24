@@ -9,7 +9,7 @@ let W = 1200;
 let H = 900;
 
 let hourglass;
-let prob = 0.0005;
+let prob = 0.005;
 
 function preload() {
   hourglass = loadModel("assets/hourglass.obj");
