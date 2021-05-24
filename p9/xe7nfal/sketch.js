@@ -67,7 +67,7 @@ function draw() {
   
   drawFrags(fragsf, -width/2 + gridSize/2, -height/2 + gridSize/2, -W/2*3, 0);
 
-  drawFrags(fragsr, width/2, -height/2 + gridSize/2, -W/2, 90);
+  drawFrags(fragsr, width/2, -height/2 + gridSize/2, -W/2*3 + gridSize, -90);
 }
 
 function drawCenter() {
