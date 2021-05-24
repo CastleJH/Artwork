@@ -6,7 +6,7 @@ let cubeSize = 90;
 let numX, numY;
 
 let W = 1200;
-let H = 1000;
+let H = 900;
 
 let hourglass;
 let prob = 0.0005;
