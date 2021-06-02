@@ -44,7 +44,7 @@ function setup() {
     else maskAppear[i] = true;
   }
 
-  song.play();
+  song.loop();
 
   noStroke();
   fill(200);
